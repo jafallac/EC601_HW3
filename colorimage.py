@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 import sys
 
 src = cv2.imread('baboon.jpg',cv2.IMREAD_COLOR)
