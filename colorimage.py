@@ -1,5 +1,4 @@
 import cv2
-import sys
 
 src = cv2.imread('baboon.jpg',cv2.IMREAD_COLOR)
 cv2.namedWindow("Original image")
