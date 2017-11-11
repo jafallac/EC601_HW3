@@ -1,4 +1,5 @@
 Exercise 4
+The image used in this exercise is Lenna.png
 
 1.) When threshold_value is set to 0, the Threshold Truncated image is completely black, and the Binary Thresholding image is completely white.
 When threshold_value is set to 255, the Threshold Truncated image is a complete grayscale image, and the Binary Thresholding image is completely black.
