@@ -1,4 +1,4 @@
-# EC601_HW3
+# EC601_HW4 OpenCV
 This Homework assignment answers four exercises that involve OpenCV.
 
 Exercises 1, 2, 3, and 4 are done in this repository.  
