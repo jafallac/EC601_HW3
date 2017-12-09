@@ -10,3 +10,5 @@ Exercise 2 (colorimage.py) is done using the baboon.jpeg image.
 Exercise 3 (noise.py) is done using the Lenna.png image, but this one is incomplete.
 
 Exercise 4 (Threshold.py) is done using the Lenna.png image.
+
+The Template_Matching Exercise is done using an image that I took of my wallet in my hand.
