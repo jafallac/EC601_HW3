@@ -1,4 +1,4 @@
-Exercise 3
+# Exercise 3
 
 The pictures show the results for mean = 0.0, sigma = 50, and noise_percentage = 10.  The image used is Lenna.png.
 
