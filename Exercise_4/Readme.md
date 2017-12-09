@@ -1,4 +1,4 @@
-Exercise 4
+# Exercise 4
 
 The image used in this exercise is Lenna.png
 
