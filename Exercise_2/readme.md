@@ -1,4 +1,4 @@
-Exercise 2
+# Exercise 2
 
 The outputs of ColorImage.cpp are images of Lenna.png.  
 
